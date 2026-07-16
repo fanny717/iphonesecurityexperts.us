@@ -1,0 +1,19 @@
+{
+  "name": "iphonesecurityexperts-us",
+  "version": "1.0.0",
+  "description": "iPhoneSecurityExperts.us - Ethical hacker services for iPhone",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "iphone",
+    "security",
+    "ethical-hacker"
+  ],
+  "author": "iPhoneSecurityExperts.us",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
